@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Queue xmlns="http://soap.sforce.com/2006/04/metadata">
+    <doesSendEmailToMembers>false</doesSendEmailToMembers>
+    <name>Soft Order Queue</name>
+    <queueMembers>
+        <users>
+            <user>ankit.sharma.0096.f335edd5b734@agentforce.com</user>
+            <user>pabitrapkp15@agentforce.com</user>
+        </users>
+    </queueMembers>
+    <queueRoutingConfig>Soft_Drink_Router</queueRoutingConfig>
+    <queueSobject>
+        <sobjectType>MessagingSession</sobjectType>
+    </queueSobject>
+</Queue>

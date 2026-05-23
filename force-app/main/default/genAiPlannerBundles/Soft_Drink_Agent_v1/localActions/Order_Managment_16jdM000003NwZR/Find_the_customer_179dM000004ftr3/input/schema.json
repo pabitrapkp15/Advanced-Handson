@@ -1,0 +1,14 @@
+{
+  "required" : [ "customer_name" ],
+  "unevaluatedProperties" : false,
+  "properties" : {
+    "customer_name" : {
+      "title" : "customer_name",
+      "description" : "This variable stores the customer name given by the customer",
+      "lightning:type" : "lightning__textType",
+      "lightning:isPII" : false,
+      "copilotAction:isUserInput" : false
+    }
+  },
+  "lightning:type" : "lightning__objectType"
+}

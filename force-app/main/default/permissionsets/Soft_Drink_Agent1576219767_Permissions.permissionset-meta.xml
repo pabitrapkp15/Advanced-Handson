@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Allows custom permissions for Agentforce Agent : Soft_Drink_Agent&apos;s agent user : soft_drink_agent@00ddm00000wii8l1274486536.ext.</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Soft_Drink_Agent1576219767 Permissions</label>
+    <license>Einstein Agent</license>
+</PermissionSet>
